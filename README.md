@@ -2,7 +2,7 @@
 
 **Name:** Ma. Paula Guevarra  
 **Program:** BSIT  
-**Course Code:** IT302 – Web Systems
+**Course Code:** IT302 – Web Application Development Systems
 
 This GitHub project includes 4 separate CRUD applications using PHP and PDO:
 
